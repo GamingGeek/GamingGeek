@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-  * Fire, a multi purpose, open source Discord bot. You can find all related repos @FireDiscordBot
+  * Fire, a multi purpose, open source Discord bot. You can find all related repos [@FireDiscordBot](https://github.com/FireDiscordBot)
 
 - 🌱 I’m currently learning
   * TypeScript. I am starting on a rewrite of the backend for inv.wtf and will move onto a rewrite of Fire once finished 👀
