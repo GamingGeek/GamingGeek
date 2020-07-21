@@ -12,9 +12,9 @@ My name is Jake and I am an 18 year old Python developer.
 
   Email: geek@gaminggeek.dev
   
-  Twitter: @GamingGeekHD
+  Twitter: [@GamingGeekHD](https://twitter.com/gaminggeekhd)
   
-  Discord: Geek#8405
+  Discord: [Geek#8405](https://discord.com/users/287698408855044097)
   
 - 😄 Pronouns: He/Him
 
