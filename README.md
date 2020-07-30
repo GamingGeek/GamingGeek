@@ -16,7 +16,4 @@ My name is Jake and I am an 18 year old Python developer.
   
   Discord: [Geek#8405](https://discord.com/users/287698408855044097)
   
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact:
-   When I started making Fire in Python, I had basically no knowledge of Python but after over a year of working on it I would consider myself quite proficient in    it 
+![Github stats](https://github-readme-stats.vercel.app/api?username=GamingGeek&theme=blue-green&count_private=true&hide_border=true&line_height=25)
