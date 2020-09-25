@@ -6,7 +6,7 @@ My name is Jake and I am an 18 year old Python developer.
   * Fire, a multi purpose, open source Discord bot. You can find all related repos [@FireDiscordBot](https://github.com/FireDiscordBot)
 
 - 🌱 I’m currently learning
-  * TypeScript. I am starting on a rewrite of the backend for inv.wtf and will move onto a rewrite of Fire once finished 👀
+  * TypeScript. I am currently rewriting my Discord bot, Fire, in TypeScript. You can find the source [here](https://github.com/FireDiscordBot/bot/tree/rewrite/typescript).
   
 - 📫 How to reach me:
 
