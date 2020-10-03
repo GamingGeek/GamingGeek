@@ -16,4 +16,10 @@ My name is Jake and I am an 18 year old Python developer.
   
   Discord: [Geek#8405](https://discord.com/users/287698408855044097)
   
+  Discord Servers:
+  
+  [![widget](https://inv.wtf/widget/fire)](https://inv.wtf/fire)
+  [![widget](https://inv.wtf/widget/😳)](https://inv.wtf/😳)
+  [![widget](https://inv.wtf/widget/🐵)](https://inv.wtf/🐵)
+  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GamingGeek&theme=blue-green&count_private=true&hide_border=true&line_height=25)
