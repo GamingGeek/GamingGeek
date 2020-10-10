@@ -22,4 +22,4 @@ My name is Jake and I am an 18 year old Python developer.
   [![widget](https://inv.wtf/widget/😳)](https://inv.wtf/😳)
   [![widget](https://inv.wtf/widget/🐵)](https://inv.wtf/🐵)
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=GamingGeek&theme=blue-green&count_private=true&hide_border=true&line_height=25)
+![Github stats](https://github-readme-stats.vercel.app/api?username=GamingGeek&theme=blueberry&count_private=true&hide_border=true&line_height=25)
