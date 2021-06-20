@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jake and I am an 18 year old TypeScript & Python developer.
+My name is Jake and I am an 19 year old TypeScript & Python developer.
 
 - 🔭 I’m currently working on
   * Fire, a multi purpose, open source Discord bot. You can find all related repos [@FireDiscordBot](https://github.com/FireDiscordBot)
