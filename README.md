@@ -12,7 +12,7 @@ My name is Jake and I am an 19 year old TypeScript & Python developer.
 
   Email: geek@gaminggeek.dev
   
-  Twitter: [@GamingGeekHD](https://twitter.com/gaminggeekhd)
+  Twitter: [@gaminggeekdev](https://twitter.com/gaminggeekdev)
   
   Discord:
 
