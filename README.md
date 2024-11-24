@@ -21,7 +21,6 @@ My name is Jake and I am a 22 year old TypeScript & Python developer.
 - Discord Servers:
   
   [![widget](https://inv.wtf/widget/fire)](https://inv.wtf/fire)
-  [![widget](https://inv.wtf/widget/statuspages)](https://inv.wtf/statuspages)
   
 - GitHub Stats
 
